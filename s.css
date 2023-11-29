@@ -8,6 +8,6 @@ p{text-align: center; font-size: 1.1em;}
 }
 
 @media (width<1400px) {
-    header{margin: 3em 0 0 0 ; font-size: x-large;}
+    header{margin: 2em 0 0 0 ; font-size: x-large;}
     p{font-size: small;}
 }
